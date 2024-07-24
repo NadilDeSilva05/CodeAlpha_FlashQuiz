@@ -1,0 +1,16 @@
+com.example.flashquiz.app-jetified-play-services-basement-18.3.0-0 C:\Users\Nadil De Silva\.gradle\caches\transforms-3\252a2726a79b37c5be411495afc5a7f7\transformed\jetified-play-services-basement-18.3.0\res
+com.example.flashquiz.app-jetified-window-java-1.0.0-beta04-1 C:\Users\Nadil De Silva\.gradle\caches\transforms-3\43f0f7a8da99ce7f3d06f54e70644320\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flashquiz.app-core-1.6.0-2 C:\Users\Nadil De Silva\.gradle\caches\transforms-3\57d2891dda6b6f5971418432f20e3ce6\transformed\core-1.6.0\res
+com.example.flashquiz.app-jetified-window-1.0.0-beta04-3 C:\Users\Nadil De Silva\.gradle\caches\transforms-3\9705774bd5874e3ca31abbb9def0e54f\transformed\jetified-window-1.0.0-beta04\res
+com.example.flashquiz.app-jetified-firebase-common-21.0.0-4 C:\Users\Nadil De Silva\.gradle\caches\transforms-3\aac60ca45897a0868944c0bb9c068355\transformed\jetified-firebase-common-21.0.0\res
+com.example.flashquiz.app-jetified-annotation-experimental-1.1.0-5 C:\Users\Nadil De Silva\.gradle\caches\transforms-3\e8534f4657b5f0d33d7e8bf7dc6542f2\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flashquiz.app-debug-6 D:\flutter\flashquiz\android\app\src\debug\res
+com.example.flashquiz.app-main-7 D:\flutter\flashquiz\android\app\src\main\res
+com.example.flashquiz.app-google-services-8 D:\flutter\flashquiz\android\build\app\generated\res\google-services\debug
+com.example.flashquiz.app-pngs-9 D:\flutter\flashquiz\android\build\app\generated\res\pngs\debug
+com.example.flashquiz.app-resValues-10 D:\flutter\flashquiz\android\build\app\generated\res\resValues\debug
+com.example.flashquiz.app-rs-11 D:\flutter\flashquiz\android\build\app\generated\res\rs\debug
+com.example.flashquiz.app-mergeDebugResources-12 D:\flutter\flashquiz\android\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.flashquiz.app-mergeDebugResources-13 D:\flutter\flashquiz\android\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.flashquiz.app-merged_res-14 D:\flutter\flashquiz\android\build\app\intermediates\merged_res\debug
+com.example.flashquiz.app-packaged_res-15 D:\flutter\flashquiz\android\build\firebase_core\intermediates\packaged_res\debug

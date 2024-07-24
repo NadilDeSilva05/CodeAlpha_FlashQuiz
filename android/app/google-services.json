@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949608673925",
+    "project_id": "flash-quiz-98432",
+    "storage_bucket": "flash-quiz-98432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949608673925:android:17b18a1c523e6152822fec",
+        "android_client_info": {
+          "package_name": "com.example.flashquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9SB1iiG9fvYhfLXN7ocTVE9mKQ1xQ-To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

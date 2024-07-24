@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">949608673925</string>
+    <string name="google_api_key" translatable="false">AIzaSyC9SB1iiG9fvYhfLXN7ocTVE9mKQ1xQ-To</string>
+    <string name="google_app_id" translatable="false">1:949608673925:android:17b18a1c523e6152822fec</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC9SB1iiG9fvYhfLXN7ocTVE9mKQ1xQ-To</string>
+    <string name="google_storage_bucket" translatable="false">flash-quiz-98432.appspot.com</string>
+    <string name="project_id" translatable="false">flash-quiz-98432</string>
+</resources>

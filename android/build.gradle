@@ -1,0 +1,36 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.4.0' // Update to a version that supports compileSdkVersion 34
+        classpath 'com.google.gms:google-services:4.3.15' // Use the same version as before
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.8.22" // Add Kotlin Gradle Plugin
+    }
+}
+
+plugins {
+    id 'com.google.gms.google-services' version '4.3.15' apply false // Ensure the version is consistent
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.buildDir = '../build'
+
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+
+subprojects {
+    project.evaluationDependsOn(':app')
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}
